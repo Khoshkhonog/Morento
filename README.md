@@ -20,4 +20,4 @@ Project i made to consolidate knowledge about React js,typescript,Fastapi and ot
 
 - start.sh - script for deployment on render.com. if you want use project localy enter command python main.py
 
-- for properly work need a database, but for bare minimum. use instructions on car_rent_react\src\components\context\context.tsx
+- for properly work you need a database, but for bare minimum. use instructions on car_rent_react\src\components\context\context.tsx and instead main.py run (npm start) in car_rent_react
