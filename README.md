@@ -9,9 +9,7 @@ Project i made to consolidate knowledge about React js,typescript,Fastapi and ot
 - Python, FastAPI,FastAPI Users - for server part
 - Postgres SQL
 
-# Instalation and Start
-
-# Instalation:
+# Instalation
 
 - on Linux use ./setup.sh
 - on Windows use setup.bat
